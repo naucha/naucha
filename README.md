@@ -28,7 +28,8 @@ My name is Ignasi, and I am a Full Stack Developer, I'm living in Barcelona, Spa
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-    
+  <img src="https://styled-components.com/logo.png" title="StyledComp" alt="StyledComp" width="40" height="40"/>&nbsp;
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
@@ -41,6 +42,12 @@ My name is Ignasi, and I am a Full Stack Developer, I'm living in Barcelona, Spa
   
 </div>
 
+<h3>My Stats :</h3>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=naucha&theme=dark&background=000000"></img>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naucha&layout=compact&theme=vision-friendly-dark"></img>
+</div>
 <div align="center">
   <img src="https://media.giphy.com/media/11LbwKX02dszWU/giphy.gif" width="300" height="auto"></img>
   
