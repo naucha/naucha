@@ -3,7 +3,7 @@
 
 <div align="left">
  <h3>About Me</h3> 
-My name is Ignasi, and I am a Full Stack Developer, I'm living in Barcelona, Spain. I have experience as a product designer and visual merchandaiser.
+My name is Ignasi, and I am a Full Stack Developer, I'm living in Barcelona, Spain. 
 <br></br>
 🔭 Recently I'm looking for new opportunities as a web developer to grow and learn new skills.
 <br></br>
@@ -15,6 +15,7 @@ My name is Ignasi, and I am a Full Stack Developer, I'm living in Barcelona, Spa
 <a href="mailto:ignasireixach@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a></div>
 </div>
 
+Some works:   <div id="badges" align="center"><a href="https://2022-08-i-vote.vercel.app/"><img src="https://img.shields.io/badge/vercel-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge"/></a>
 <h3>Languages and Tools :</h3>
 
 <div align="center">
