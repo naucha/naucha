@@ -46,7 +46,6 @@ My name is Ignasi, and I am a Full Stack Developer, I'm living in Barcelona, Spa
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=naucha&theme=dark&background=000000"></img>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naucha&layout=compact&theme=vision-friendly-dark"></img>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/11LbwKX02dszWU/giphy.gif" width="300" height="auto"></img>
