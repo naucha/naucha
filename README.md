@@ -17,8 +17,8 @@ My name is Ignasi, and I am a Full Stack Developer, I'm living in Barcelona, Spa
 
 <h4>:military_helmet:   Some works:</h4>
 
- 
- <div id="badges" display="flex"><a href="https://2022-08-i-vote.vercel.app/"><img src="https://img.shields.io/badge/Vote-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Vote Badge"/></a>
+ <div id="badges" display="flex" align="space-between">
+ <a href="https://2022-08-i-vote.vercel.app/"><img src="https://img.shields.io/badge/Vote-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Vote Badge"/></a>
 
  <a href="https://2022-06-today-city-places.vercel.app/"><img src="https://img.shields.io/badge/Today City Places-green?style=for-the-badge&logo=vercel&logoColor=white" alt="Vote Badge"/></a>
 
