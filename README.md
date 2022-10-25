@@ -1,6 +1,5 @@
 <div align="left">
 <h2>Hi there I'm Naucha👋</h2>
-<div id="badges" align="center"><a href="https://www.linkedin.com/in/ignasi-reixach-urcola/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a></div>
 
 <div align="left">
  <h3>About Me</h3> 
