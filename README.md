@@ -11,14 +11,14 @@ My name is Ignasi, and I am a Full Stack Developer, I'm living in Barcelona, Spa
 <br></br>
 :musical_note: In my free time I put my hands in my bass, thinking how to mix them with all the technologies that I know.
 <br></br>
-:inbox_tray: How to reach me:   <div id="badges" align="center"><a href="https://www.linkedin.com/in/ignasi-reixach-urcola/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<h4>:inbox_tray:   How to reach me: </h4>   <div id="badges" align="center"><a href="https://www.linkedin.com/in/ignasi-reixach-urcola/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <a href="mailto:ignasireixach@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a></div>
 </div>
 
-:military_helmet: Some works:  
+<h4>:military_helmet:   Some works:</h4>
 
  
- <div id="badges" align="space-between"><a href="https://2022-08-i-vote.vercel.app/"><img src="https://img.shields.io/badge/Vote-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Vote Badge"/></a>
+ <div id="badges" display="flex"><a href="https://2022-08-i-vote.vercel.app/"><img src="https://img.shields.io/badge/Vote-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Vote Badge"/></a>
 
  <a href="https://2022-06-today-city-places.vercel.app/"><img src="https://img.shields.io/badge/Today City Places-green?style=for-the-badge&logo=vercel&logoColor=white" alt="Vote Badge"/></a>
 
