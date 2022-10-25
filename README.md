@@ -15,7 +15,7 @@ My name is Ignasi, and I am a Full Stack Developer, I'm living in Barcelona, Spa
 <a href="mailto:ignasireixach@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a></div>
 </div>
 
-Some works:   <div id="badges" align="center"><a href="https://2022-08-i-vote.vercel.app/"><img src="https://img.shields.io/badge/vercel-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge"/></a>
+Some works:   <div id="badges" align="center"><a href="https://2022-08-i-vote.vercel.app/"><img src="https://img.shields.io/badge/Vote-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Vote Badge"/></a>
 <h3>Languages and Tools :</h3>
 
 <div align="center">
