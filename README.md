@@ -15,7 +15,16 @@ My name is Ignasi, and I am a Full Stack Developer, I'm living in Barcelona, Spa
 <a href="mailto:ignasireixach@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a></div>
 </div>
 
-Some works:   <div id="badges" align="center"><a href="https://2022-08-i-vote.vercel.app/"><img src="https://img.shields.io/badge/Vote-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Vote Badge"/></a>
+:military_helmet: Some works:  
+<div align="space-between>
+ 
+ <div id="badges" align="center"><a href="https://2022-08-i-vote.vercel.app/"><img src="https://img.shields.io/badge/Vote-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Vote Badge"/></a>
+
+ <div id="badges" align="center"><a href="https://2022-06-today-city-places.vercel.app/"><img src="https://img.shields.io/badge/Today City Places-green?style=for-the-badge&logo=vercel&logoColor=white" alt="Vote Badge"/></a>
+
+  <div id="badges" align="center"><a href="https://2022-08-i-vote.vercel.app/"><img src="https://img.shields.io/badge/DishWeek-brown?style=for-the-badge&logo=vercel&logoColor=white" alt="Vote Badge"/></a>
+</div>
+  
 <h3>Languages and Tools :</h3>
 
 <div align="center">
