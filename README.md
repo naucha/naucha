@@ -17,14 +17,10 @@ My name is Ignasi, and I am a Full Stack Developer, I'm living in Barcelona, Spa
 
 <h4>:military_helmet:   Some works:</h4>
 
- <div id="badges"  align="center">
- <a href="https://2022-08-i-vote.vercel.app/"><img src="https://img.shields.io/badge/Vote-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Vote Badge"/></a>
-
- <a href="https://2022-06-today-city-places.vercel.app/"><img src="https://img.shields.io/badge/Today City Places-green?style=for-the-badge&logo=vercel&logoColor=white" alt="Vote Badge"/></a>
-
-  <a href="https://2022-08-i-vote.vercel.app/"><img src="https://img.shields.io/badge/DishWeek-brown?style=for-the-badge&logo=vercel&logoColor=white" alt="Vote Badge"/></a>
-
-</div>
+<div id="badges" align="center" gap="20px">
+  <a href="https://2022-08-i-vote.vercel.app/"><img src="https://img.shields.io/badge/Vote-white?style=for-the-badge&logo=vercel&logoColor=black" alt="Vote Badge"/></a>
+  <a href="https://2022-06-today-city-places.vercel.app/"><img src="https://img.shields.io/badge/Today City Places-green?style=for-the-badge&logo=vercel&logoColor=white" alt="Vote Badge"/></a>
+  <a href="https://2022-08-i-vote.vercel.app/"><img src="https://img.shields.io/badge/DishWeek-brown?style=for-the-badge&logo=vercel&logoColor=white" alt="Vote Badge"/></a></div>
   
 <h3>Languages and Tools :</h3>
 
@@ -55,6 +51,7 @@ My name is Ignasi, and I am a Full Stack Developer, I'm living in Barcelona, Spa
 <h3>My Stats :</h3>
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=naucha&theme=dark&background=000000"></img>
+<br></br>
 
 </div>
 <div align="center">
