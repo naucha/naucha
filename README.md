@@ -5,8 +5,6 @@
  <h3>About Me</h3> 
 My name is Ignasi, and I am a Full Stack Developer, I'm living in Barcelona, Spain. 
 <br></br>
-🔭 Recently I'm looking for new opportunities as a web developer to grow and learn new skills.
-<br></br>
 🌱 Exploring new subjects to learn always, from design, to programming and music.
 <br></br>
 :musical_note: In my free time I put my hands in my bass, thinking how to mix them with all the technologies that I know.
