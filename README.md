@@ -49,7 +49,7 @@ My name is Ignasi, and I am a Full Stack Developer, I'm living in Barcelona, Spa
 [comment]: <> (<h3>My Stats :</h3>)
 [comment]: <> (<div align="center">)
 [comment]: <>  (<img src="https://github-readme-streak-stats.herokuapp.com/?user=naucha&theme=dark&background=000000"></img>)
-<br></br>)
+<br></br>
 
 </div>
 <div align="center">
